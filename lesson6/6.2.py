@@ -16,7 +16,6 @@ prices = dict(
 total = 0
 for i in stock:
     value = prices[i] * stock[i]
-    print(value)
+    print('{}'.format(i), value)
     total = total + value
-print(total)
-
+print('Total value: ', total)
