@@ -158,14 +158,6 @@ def update_by_phone_number(phonebook):
         update_phonebook_item(result)
         break
 
-def delete_phonebook_item(item):
-    item_keys = list(item.keys())
-    print('What to delete: ')
-    for ind, key in enumerate(item_keys):
-        print('{}. {} ({})'.format(ind, key, item[key]))
-    choice = int(input('Your choice: '))
-    del item[item_keys[choice]]
-
 def delete_by_phone_number(phonebook):
     os.system('clear')
     result = None
@@ -180,7 +172,7 @@ def delete_by_phone_number(phonebook):
                 break
             else:
                 continue
-        delete_phonebook_item(result)
+        result.clear()
         break
 
 
