@@ -17,10 +17,13 @@
 """
 import json
 import os
+from typing import List, Dict
+
 file_name = input("Type phonebook name: ")
 phonebook = json.load(open(file_name))
 
-def add_new_entry(phonebook):
+
+def add_new_entry(phonebook: List[Dict[str, str]]) -> bool:
     print('Adding new entry: ')
     firstname = input('First name: ')
     secondname = input('Second name: ')
@@ -36,7 +39,7 @@ def add_new_entry(phonebook):
     })
     return True
 
-def search_by_first_name(phonebook):
+def search_by_first_name(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -54,7 +57,7 @@ def search_by_first_name(phonebook):
         input('enter to exist')
         break
 
-def search_by_last_name(phonebook):
+def search_by_last_name(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -73,7 +76,7 @@ def search_by_last_name(phonebook):
         break
 
 
-def search_by_full_name(phonebook):
+def search_by_full_name(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -95,7 +98,7 @@ def search_by_full_name(phonebook):
         input('enter to exist')
         break
 
-def search_by_city(phonebook):
+def search_by_city(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -113,7 +116,7 @@ def search_by_city(phonebook):
         input('enter to exist')
         break
 
-def search_by_phone(phonebook):
+def search_by_phone(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -132,7 +135,7 @@ def search_by_phone(phonebook):
         break
 
 
-def update_phonebook_item(item):
+def update_phonebook_item(item: Dict[str, str]) -> None:
     item_keys = list(item.keys())
     print('What to update: ')
     for ind, key in enumerate(item_keys):
@@ -141,7 +144,7 @@ def update_phonebook_item(item):
     value = input('New value: ')
     item[item_keys[choice]] = value
 
-def update_by_phone_number(phonebook):
+def update_by_phone_number(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -158,7 +161,7 @@ def update_by_phone_number(phonebook):
         update_phonebook_item(result)
         break
 
-def delete_by_phone_number(phonebook):
+def delete_by_phone_number(phonebook: List[Dict[str, str]]) -> None:
     os.system('clear')
     result = None
     while True:
@@ -176,7 +179,7 @@ def delete_by_phone_number(phonebook):
         break
 
 
-def system_exit(phonebook):
+def system_exit(phonebook: List[Dict[str, str]]) -> None:
     json.dump(phonebook, open(file_name, 'w'))
     exit(0)
 
