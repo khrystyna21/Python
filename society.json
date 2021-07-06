@@ -1,0 +1,2044 @@
+{
+    "sessions": [
+        {
+            "key": 1,
+            "value": {
+                "name": "Mitglieder\nPD Dr. Jörg Bäsecke\n",
+                "description": "",
+                "hidden": false,
+                "deleted": true
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "name": "ZNS Malignome",
+                "description": "",
+                "hidden": false,
+                "deleted": true
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "name": "Stammzellbiologie & -Therapie\n",
+                "description": "",
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "name": "Zelltherapie",
+                "description": "",
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "name": "ZNS Malignome\n",
+                "description": "",
+                "hidden": false,
+                "deleted": false
+            }
+        }
+    ],
+    "presentations": [
+        {
+            "key": 1,
+            "value": {
+                "title": "Mitglieder\nPD Dr. Jörg Bäsecke\n",
+                "abstract": "",
+                "url": "",
+                "session_id": 1,
+                "hidden": false,
+                "deleted": true
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "title": "Mitglieder",
+                "abstract": "",
+                "url": "",
+                "session_id": 2,
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "title": "Stammzellbiologie & -Therapie\n",
+                "abstract": "",
+                "url": "",
+                "session_id": 3,
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "title": "Zelltherapie",
+                "abstract": "",
+                "url": "",
+                "session_id": 4,
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "title": "ZNS Malignome\n",
+                "abstract": "",
+                "url": "",
+                "session_id": 5,
+                "hidden": false,
+                "deleted": false
+            }
+        },
+        {
+            "key": 6,
+            "value": {
+                "title": "Tobias Pukrop",
+                "abstract": "",
+                "url": "",
+                "session_id": 5,
+                "hidden": false,
+                "deleted": true
+            }
+        },
+        {
+            "key": 7,
+            "value": {
+                "title": "Gerald Illerhaus",
+                "abstract": "",
+                "url": "",
+                "session_id": 5,
+                "hidden": false,
+                "deleted": true
+            }
+        }
+    ],
+    "authors": [
+        {
+            "key": 1,
+            "value": {
+                "name": "Jörg Bäsecke",
+                "location": "MVZ am St.-Josefs-Hospital Cloppenburg, Cloppenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "name": "Josef Birkmann",
+                "location": "Klinikum Nürnberg-Nord\n5. Medizinische Klinik\nProf.-Ernst-Nathan-Str. 1\n90419 Nürnberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "name": "Annalen Bleckmann",
+                "location": "Uniklinikum Münster\nMed A\nAlbert-Schweitzer-Campus 1\n48149 Münster",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "name": "Lars Bullinger",
+                "location": "Charité Universitätsmedizin Berlin\nCampus Virchow-Klinikum (CVK)\nAugustenburger Platz 1\n13353 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "name": "Frank Griesinger",
+                "location": "Pius Hospital Oldenburg\nUniversitätsklinik Innere Medizin-Onkologie\nKlinik für Hämatologie und Onkologie\nGeorgenstr. 12\n26121 Oldenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 6,
+            "value": {
+                "name": "Jörg Hense",
+                "location": "Universitätsklinikum Essen\nInnere Klinik (Tumorforschung)\nHufelandstr. 55\n45147 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 7,
+            "value": {
+                "name": "Daniel Heudobler",
+                "location": "Universitätsklinikum Regensburg\nKlinik für Innere Medizin II\nFranz-Josef-Strauss-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 8,
+            "value": {
+                "name": "Silvia Hofer",
+                "location": "UniversitätsSpital Zürich\nKlinik für Neurologie\nRämistr. 100\n8091 Zürich\nSchweiz",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 9,
+            "value": {
+                "name": "Johannes Hoffmann\n",
+                "location": "PIUS Hospital Oldenburg\nKlinik für Hämatologie und Onkologie\nGeorgstr. 12\n26121 Oldenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 10,
+            "value": {
+                "name": "Gerald Illerhaus",
+                "location": "Klinikum Stuttgart\nKlinik für Hämatologie und Onkologie\nStuttgart Cancer Center / Tumorzentrum\nKriegsbergstr. 60\n70174 Stuttgart",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 11,
+            "value": {
+                "name": "Meinolf Karthaus",
+                "location": "Klinikum Neuperlach\nKlinik für Hämatologie und Onkologie\nOskar-Maria-Graf-Ring 51\n81737 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 12,
+            "value": {
+                "name": "Benjamin Kasenda",
+                "location": "iOMEDICO AG\nEllen-Gottliebstr. 19\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 13,
+            "value": {
+                "name": "Agnieszka Korfel",
+                "location": "Lilly Deutschland GmbH\nWerner-Reimers-Str. 2-4\n61352 Bad Homburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 14,
+            "value": {
+                "name": "Felicitas Lammer",
+                "location": "",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 15,
+            "value": {
+                "name": "Lothar Müller",
+                "location": "Onkologische Schwerpunktpraxis Leer-Emden\nAnnenstr. 11\n26789 Leer",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 16,
+            "value": {
+                "name": "Tobias Pukrop",
+                "location": "Universität Regensburg\nKlinik und Poliklinik f.Innere Medizin III\nHämatologie und Medizinische Onkologie\nFranz-Josef-Strauß-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 17,
+            "value": {
+                "name": "Elisabeth Schorb",
+                "location": "Universitätsklinikum Freiburg\nKlinik für Innere Medizin I\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 18,
+            "value": {
+                "name": "Solveig C. Schulz",
+                "location": "AKH Celle\nKlinik für Strahlentherapie\nSiemensplatz 4\n29223 Celle",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 19,
+            "value": {
+                "name": "Martin Trepel",
+                "location": "Universitätsklinikum Augsburg\nII. Medizinische Klinik\nStenglinstr. 2\n86156 Augsburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 20,
+            "value": {
+                "name": "Bernhard Wörmann",
+                "location": "Amb. Gesundheitszentrum der Charité\nCampus Virchow-Klinikum\nMed. Klinik m.S. Hämatologie & Onkologie\nAugustenburger Platz 1\n13344 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 2,
+                "deleted": false
+            }
+        },
+        {
+            "key": 21,
+            "value": {
+                "name": "Matthias Becker",
+                "location": "Universitätsmedizin Würzburg\nInstitut für Med. Strahlenkunde\nund Zellforschung im ZEMM\nZinklesweg 10\n97078 Würzburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 22,
+            "value": {
+                "name": "Martin Bornhäuser",
+                "location": "Universitätsklinikum Carl Gustav Carus\nTechnische Universität Dresden\nMedizinische Klinik und Poliklinik I\nFetscher Str. 74\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 23,
+            "value": {
+                "name": "Eike Christian Buss",
+                "location": "AbbVie Deutschland GmbH & Co. KG\nKnollstr., Building 34, Room 203\n67061 Ludwigshafen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 24,
+            "value": {
+                "name": "Maximilian Christopeit",
+                "location": "Universitätsklinikum Tübingen\nMedizinische Klinik II\nOtfried-Müller-Str. 10\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 25,
+            "value": {
+                "name": "Michael Cross\n",
+                "location": "Universitätsmedizin Leipzig\nAbteilung für Hämatologie, internistische\nOnkologie und Hämostaseologie\nJohannisallee 32A\n04103 Leipzig",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 26,
+            "value": {
+                "name": "Michaela Feuring-Buske",
+                "location": "Universitätsklinikum Ulm\nKlinik für Innere Medizin III\nZentrum für Innere Medizin\nAlbert-Einstein-Allee 23\n89081 Ulm",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 27,
+            "value": {
+                "name": "Stefan Frühauf",
+                "location": "Klinik Dr. Hancken\nHämatologie, Onkologie & Palliativmedizin\nHarsefelder Str. 8\n21680 Stade",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 28,
+            "value": {
+                "name": "Joachim Göthert",
+                "location": "Klinik für Hämatologie\nim Universitätsklinikum Essen\nHufelandstr. 55\n45147 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 29,
+            "value": {
+                "name": "Kai Gutensohn",
+                "location": "aescuLabor\nHaferweg 36\n22769 Hamburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 30,
+            "value": {
+                "name": "Rainer Haas",
+                "location": "Universitätsklinikum Düsseldorf\nMedizinische Klinik und Poliklinik\nHämatologie, Onkologie und klinische Immunologie\nMoorenstr. 5\n40225 Düsseldorf",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 31,
+            "value": {
+                "name": "Mathias Hänel\n",
+                "location": "Klinikum Chemnitz gGmbH\nKlinik für Innere Medizin III\nAbt. Hämatologie\nFlemmingstr. 2\n09116 Chemnitz",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 32,
+            "value": {
+                "name": "Florian H. Heidel",
+                "location": "Universitätsklinikum Jena\nInnere Medizin II\nHämatologie und Onkologie\nErlanger Allee 10\n07747 Jena",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 33,
+            "value": {
+                "name": "Anthony D. Ho",
+                "location": "Otto-Meyerhof-Zentrum (OMZ)\nIm Neuenheimer Feld 350\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 34,
+            "value": {
+                "name": "Kai Hübel",
+                "location": "Universitätsklinikum Köln\nKlinik I für Innere Medizin\nKerpener Str. 62\n50937 Köln",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 35,
+            "value": {
+                "name": "Gero Hütter",
+                "location": "CCC Cellex Collection Center\nFiedlerstr. 36\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 36,
+            "value": {
+                "name": "Angela Jacobi",
+                "location": "Universitätsmedizin Dresden\nStammzelllabor 2 - MK1-L11\nFiedlerstraße 27\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 37,
+            "value": {
+                "name": "Edgar Jost\n",
+                "location": "Uniklinik RWTH Aachen\nMedizinische Klinik IV\nPauwelsstr. 30\n52074 Aachen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 38,
+            "value": {
+                "name": "Brigitte Kircher",
+                "location": "Medizinische Universität Innsbruck\nUniversitätsklinik für Innere Medizin V\nHämatologie und Onkologie\nAnichstr. 35\nA-6020 Innsbruck\nÖsterreich",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 39,
+            "value": {
+                "name": "Christoph Klein",
+                "location": "Medizinische Hochschule Hannover\nKlinik für Pädiatrische Hämatologie & Onkologie\nCarl-Neuberg-Str. 1\n30625 Hannover",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 40,
+            "value": {
+                "name": "Gerd Klein",
+                "location": "Zentrum für Medizinische Forschung (ZMF)\nUniversität Tübingen\nWaldhörnlestr. 22\n72072 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 41,
+            "value": {
+                "name": "Hans-Jochem Kolb",
+                "location": "Klinikum rechts d. Isar der TU München\nMedizinische Klinik III\nIsmaningerstr. 22\n81765 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 42,
+            "value": {
+                "name": "Lambros Kordelas",
+                "location": "Universitätsklinikum Essen\nKlinik für Knochenmarktransplantation\nHufelandstr. 55\n45147 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 43,
+            "value": {
+                "name": "Steffen Koschmieder",
+                "location": "Universitätsklinikum Aachen\nMed. Klinik IV\nOnkologie, Hämatologie & Stammzelltransplantation\nPauwelsstr. 30\n52074 Aachen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 44,
+            "value": {
+                "name": "Katharina Kriegsmann",
+                "location": "Uniklinik Heidelberg\nMedizinische Klinik V\nIm Neuen Feld 410\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 45,
+            "value": {
+                "name": "William H. Krüger",
+                "location": "Ernst-Moritz-Arndt-Universität Greifswald\nKlinik und Poliklinik für Innere Medizin C\nHämatologie und Onkologie\nFerdinand-Sauerbruch-Str.\n17487 Greifswald",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 46,
+            "value": {
+                "name": "Florian Kuchenbauer",
+                "location": "BC Cancer Agency Research\nTerry Fox Laboratory\nVancouver, BC\nCanada",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 47,
+            "value": {
+                "name": "Peter Lang",
+                "location": "Univ.-Klinik f. Kinder- u. Jugendmedizin\nHoppe-Seyler-Str. 1\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 48,
+            "value": {
+                "name": "Claudia Lengerke",
+                "location": "Universitätsklinikum Tübingen\nInnere Medizin II\nHämatologie, Onkologie\nOtfried-Müller-Str. 10\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 49,
+            "value": {
+                "name": "Zhixiong (Lukas) Li",
+                "location": "Medizinische Hochschule Hannover\nExperimentelle Hämatologie\nOE 6960\nCarl-Neuberg-Str. 1\n30625 Hannover",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 50,
+            "value": {
+                "name": "Christoph Lutz",
+                "location": "Praxisklinik für Hämatologie und Onkologie Koblenz\nNeversstr. 5\n56068 Koblenz",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 51,
+            "value": {
+                "name": "Robert Möhle",
+                "location": "Eberhard-Karls-Universität Tübingen\nMedizinische Universitätsklinik II\nOtfried-Müller-Str. 10\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 52,
+            "value": {
+                "name": "Anja Moldenhauer",
+                "location": "MVZ des Klinikums der Stadt\nLudwigshafen am Rhein GmbH\nBremserstr. 79\n67063 Ludwigshafen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 53,
+            "value": {
+                "name": "Albrecht Müller",
+                "location": "Institut für Med. Strahlenkunde und\nZellforschung im ZEMM\nUniversität Würzburg\nZinklesweg 10\n97078 Würzburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 54,
+            "value": {
+                "name": "Lutz P. Müller\n",
+                "location": "M.-Luther-Universität Halle-Wittenberg\nUniversitätsklinik & Poliklinik\nInnere Med. IV, Hämatologie & Onkologie\nErnst-Grube-Str. 40\n06120 Halle",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 55,
+            "value": {
+                "name": "Hugo Murua Escobar",
+                "location": "Universitätsmedizin Rostock\nMedizinische Klinik III\nHämatologisches Speziallabor\nErnst-Heydemann-Str. 6\n18057 Rostock",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 56,
+            "value": {
+                "name": "Robert A. J. Oostendorp",
+                "location": "Technische Universität München\nKlinikum rechts der Isar\nIII. Medizinische Klinik\nIsmaninger Str. 22\n81675 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 57,
+            "value": {
+                "name": "Caroline Pabst",
+                "location": "Universitätsklinikum Heidelberg\nMedizinische Klinik, Innere Medizin V\nHämatologie, Onkologie und Rheumatologie\nIm Neuenheimer Feld 410\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 58,
+            "value": {
+                "name": "Jens Panse",
+                "location": "Universitätsklinikum RWTH Aachen\nMedizinische Klinik IV\nKlinik für Onkologie, Hämatologie,\nHämostaseologie und Stammzelltransplantation\nPauwelsstr. 30\n52074 Aachen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 59,
+            "value": {
+                "name": "Eva Rohde",
+                "location": "Salzburger Landeskliniken GesmBH\nUniversitätsklinik für Blutgruppenserologie und\nTransfusionsmedizin\nMüllner Hauptstr. 48\nA-5020 Salzburg\nÖsterreich",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 60,
+            "value": {
+                "name": "Rainer Saffrich",
+                "location": "Universitätsklinikum Heidelberg\nMedizinische Klinik\nInnere Medizin V",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 61,
+            "value": {
+                "name": "Katharina Schallmoser",
+                "location": "Medizinische Universität Graz\nStem Cell Research Unit\nAuenbruggerplatz 3\nA-8036 Graz\nÖsterreich",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 62,
+            "value": {
+                "name": "Thomas Schröder",
+                "location": "Universitätsklinikum Düsseldorf\nKlinik für Hämatologie, Onkologie und Klinische Immunologie\nMoorenstr. 5\n40225 Düsseldorf",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 63,
+            "value": {
+                "name": "Thomas Schroeder",
+                "location": "Uniklinik Düsseldorf",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 64,
+            "value": {
+                "name": "Mario Schubert",
+                "location": "Klinik Park-Therme\nErnst-Eisenlohr-Str. 6\n79410 Badenweiler",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 65,
+            "value": {
+                "name": "Sebastian Schwind",
+                "location": "Universität Leipzig\nInnere Medizin\nHämatologie, Intern. Onkologie\nJohannisallee 32a\n04103 Leipzig",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 66,
+            "value": {
+                "name": "Hubert Serve",
+                "location": "Klinikum der Johann-Wolfgang Goethe-Universität\nMedizinische Klinik II\nTheodor-Stern-Kai 7\n60590 Frankfurt",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 67,
+            "value": {
+                "name": "Renata Stripecke",
+                "location": "Medizinische Hochschule Hannover\nHämatologie, Hämostaseologie,\nOnkologie und Stammzelltransplantation\nCarl-Neuberg-Str. 1\n30625 Hannover",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 68,
+            "value": {
+                "name": "Marion Subklewe",
+                "location": "LMU - Klinikum der Universität München\nMed Klinik und Poliklinik III\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 69,
+            "value": {
+                "name": "Lutz Uharek",
+                "location": "",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 70,
+            "value": {
+                "name": "Peter Valent",
+                "location": "Medizinische Universität Wien\nKlinikum für Innere Medizin I\nWähringer Gürtel 18 - 20\nA-1090 Wien\nÖsterreich",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 71,
+            "value": {
+                "name": "Michael von Bergwelt-Baildon",
+                "location": "Klinikum der Universität München\nMedizinische Klinik und Poliklinik III\nHämatologie/Onkologie\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 72,
+            "value": {
+                "name": "Wolfgang Wagner",
+                "location": "Helmholtz-Institut\nfür Biomedizinische Technolgien\nPauwelsstr. 20\n52074 Aachen",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 73,
+            "value": {
+                "name": "Ralph Wäsch",
+                "location": "Universitätsklinik Freiburg\nInnere Medizin I\nHämatologie / Onkologie\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 74,
+            "value": {
+                "name": "Manja Wobus",
+                "location": "Universitätsklinikum Dresden\nMedizinische Klinik I\nFetscherstr. 74\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 75,
+            "value": {
+                "name": "Patrick Wuchter",
+                "location": "Universität Heidelberg\nInstitut für Transfusionsmedizin und Immunologie\nMedizinische Fakultät Mannheim\nFriedrich-Ebert-Str. 107\n68167 Mannheim",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 76,
+            "value": {
+                "name": "Axel Rolf Zander\n",
+                "location": "",
+                "role": "",
+                "email": "",
+                "presentation_id": 3,
+                "deleted": false
+            }
+        },
+        {
+            "key": 77,
+            "value": {
+                "name": "Michael Schmitt",
+                "location": "Universitätsklinkum Heidelberg",
+                "role": "Moderator",
+                "email": "zelltherapie@dgho.de",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 78,
+            "value": {
+                "name": "Hinrich Abken",
+                "location": "Uniklinik Köln\nKlinik I für Innere Medizin\nRobert-Koch-Str. 21\n50931 Köln",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 79,
+            "value": {
+                "name": "Michael Aigner",
+                "location": "Universitätsklinikum Erlangen\nMedizinische Klinik 5 - Hämatologie\nund Internistische Onkologie\nUlmenweg 18\n91054 Erlangen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 80,
+            "value": {
+                "name": "Dietrich Wilhelm Beelen",
+                "location": "Universitätsklinikum Essen\nKlinik für Knochenmarktransplantation\nHufelandstr. 55\n45122 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 81,
+            "value": {
+                "name": "Gerhard Behre",
+                "location": "Universitätsklinikum Leipzig\nInnere Medizin\nHämatologie und Onkologie\nJohannisallee 32 A\n04103 Leipzig",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 82,
+            "value": {
+                "name": "Carolina Berger",
+                "location": "Universitätsklinikum Hamburg-Eppendorf\nKlinik für Stammzelltransplantation\nMartinistr. 52\n20246 Hamburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 83,
+            "value": {
+                "name": "Wolfgang Bethge",
+                "location": "Universitätsklinikum Tübingen\nMedizinische Universitätsklinik II\nHämatologie und Onkologie\nOtfried-Müller-Str. 10\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 84,
+            "value": {
+                "name": "Halvard-B. Bönig",
+                "location": "DRK-Blutspendedienst\nBaden-Württemberg - Hessen\nInstitut für Transfusionsmedizin und Immunhämatologie\nSandhofstr. 1\n60528 Frankfurt",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 85,
+            "value": {
+                "name": "Martin Bornhäuser",
+                "location": "Universitätsklinikum Carl Gustav Carus\nTechnische Universität Dresden\nMedizinische Klinik und Poliklinik I\nFetscher Str. 74\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 86,
+            "value": {
+                "name": "Peter Brossart",
+                "location": "Universitätsklinikum Bonn\nMedizinische Klinik III\nOnkologie und Hämatologie\nSigmund-Freud-Str. 25\n53105 Bonn",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 87,
+            "value": {
+                "name": "Lars Bullinger",
+                "location": "Charité Universitätsmedizin Berlin\nCampus Virchow-Klinikum (CVK)\nAugustenburger Platz 1\n13353 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 88,
+            "value": {
+                "name": "Toni Cathomen",
+                "location": "Universitätklinikum Freiburg\nInstitut für Zell- und Gentherapie\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 89,
+            "value": {
+                "name": "Tatjana Cornu",
+                "location": "Universitätklinikum Freiburg\nInstitut für Zell- und Gentherapie\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 90,
+            "value": {
+                "name": "Matthias Edinger",
+                "location": "Uniklinik Regensburg\nHämatologie & Intern. Onkologie\nFranz-Josef-Strauss-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 91,
+            "value": {
+                "name": "Hermann Einsele",
+                "location": "Universitätsklinikum Würzburg\nMedizinische Klinik und Poliklinik II\nOberdürrbacher Str. 6\n97080 Würzburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 92,
+            "value": {
+                "name": "Boris Fehse",
+                "location": "Universitätsklinikum Hamburg Eppendorf\nOnkologisches Zentrum\nInterdisziplinäre Klinik und Poliklinik\nfür Stammzelltransplantation\nMartinistr. 52\n20246 Hamburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 93,
+            "value": {
+                "name": "Johannes Fischer",
+                "location": "Universitätsklinikum Düsseldorf\nInstitut für Transplantationsdiagnostik und\nZelltherapeutika (ITZ)\nMoorenstr. 5\n40225 Düsseldorf",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 94,
+            "value": {
+                "name": "Mathias Freund",
+                "location": "Hamburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 95,
+            "value": {
+                "name": "Arnold Ganser",
+                "location": "Medizinische Hochschule Hannover\nZentrum Innere Medizin\nAbteilung Hämatologie und Onkologie\nCarl-Neuberg-Str. 1\n30625 Hannover",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 96,
+            "value": {
+                "name": "Armin Gerbitz",
+                "location": "Princess Margaret Cancer Center\nUniversity Health Network & Sinai Health System\n610 University Avenue\nToronto, ON M5G 2M9\nKANADA",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 97,
+            "value": {
+                "name": "Martin Gramatzki",
+                "location": "Sektion für Stammzell- und Immuntherapie\nUniversitätsklinikum Schleswig-Holstein, Campus Kiel\nArnold-Heller-Str. 3\n24105 Kiel",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 98,
+            "value": {
+                "name": "Jochen Greiner",
+                "location": "Diakonie-Klinikum Stuttgart\nHämatologie, Onkologie, Palliativmedizin und Schmerztherapie\nRosenbergstr. 38\n70176 Stuttgart",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 99,
+            "value": {
+                "name": "Ulrich Grigoleit",
+                "location": "Helios Klinikum Duisburg\nKlinik für Hämatologie und Onkologie\nAn der Abtei 7-11\n47166 Duisburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 100,
+            "value": {
+                "name": "Rupert Handgretinger",
+                "location": "Universitätsklinik für Kinder- und Jugendmedizin\nAllgemeine Pädiatrie\nHämatologie/Onkologie\nHoppe-Seyler-Str. 1\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 101,
+            "value": {
+                "name": "Andrea Hauser",
+                "location": "Universitätsklinikum Regensburg\nKlinik und Poliklinik für Innere Medizin III\nHämatologie & Int. Onkologie\nFranz-Josef-Strauß-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 102,
+            "value": {
+                "name": "Wolfgang Herr",
+                "location": "Universitätsklinikum Regensburg\nKlinik & Poliklinik für Innere Med. III\nHämatologie & Internistische Onkologie\nFranz-Josef-Strauß-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 103,
+            "value": {
+                "name": "Martin Hildebrandt",
+                "location": "Klinikum der Universität Muenchen\nAbt. für Transfusionsmedizin,\nZelltherapeutika und Haemostaseologie\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 104,
+            "value": {
+                "name": "Thomas Hinz",
+                "location": "Paul-Ehrlich-Institut\nBundesinstitut für Impfstoffe und\nbiomedizinische Arzneimittel\nPaul-Ehrlich-Str. 51-59\n63225 Langen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 105,
+            "value": {
+                "name": "Uta E. Höpken",
+                "location": "Max-Delbrück-Centrum für Molekulare Medizin (MDC)\nRobert-Rössle-Str. 10\n13125 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 106,
+            "value": {
+                "name": "Peter Horn",
+                "location": "Universitätskliniken Essen\nInstitut für Transfusionsmedizin\nHufelandstr. 55\n45122 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 107,
+            "value": {
+                "name": "Andreas Humpe",
+                "location": "Klinikum der Universität München\nAbteilung für Transfusionsmedizin, Zelltherapeutika und Hämostaseologie\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 108,
+            "value": {
+                "name": "Gero Hütter",
+                "location": "CCC Cellex Collection Center\nFiedlerstr. 36\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 109,
+            "value": {
+                "name": "Hans-Dieter Kleine",
+                "location": "Maditec\nSchlehdornweg 8\n18209 Bad Doberan",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 110,
+            "value": {
+                "name": "Ulrike Köhl",
+                "location": "Fraunhofer Institut für Zelltherapie\nund Immunologie (IZI)\nPerlickstr. 1\n04103 Leipzig",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 111,
+            "value": {
+                "name": "Joachim Kopp",
+                "location": "Charité, Campus Berlin-Buch\nAbt. für Hämatologie, Onkologie\nund Tumorimmunologie\nRobert-Rössle-Str.10\n13125 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 112,
+            "value": {
+                "name": "Lambros Kordelas\n",
+                "location": "Universitätsklinikum Essen\nKlinik für Knochenmarktransplantation\nHufelandstr. 55\n45147 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 113,
+            "value": {
+                "name": "Felix Korell",
+                "location": "Universitätsklinikum Heidelberg\nInnere Medizin V\nKlinik für Hämatologie, Onkologie und Rheumatologie\nIm Neuenheimer Feld 410\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 114,
+            "value": {
+                "name": "Angela Krackhardt",
+                "location": "Klinikum rechts der Isar, TU München\nKlinik und Poliklinik für Innere Medizin III\nHämatologie/Onkologie\nIsmaninger Str. 22\n81675 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 115,
+            "value": {
+                "name": "Nicolaus Kröger",
+                "location": "Universitätsklinikum Hamburg-Eppendorf\nKlinik für Stammzelltransplantation\nOnkologische Station\nMartinistr. 52\n20246 Hamburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 116,
+            "value": {
+                "name": "Peter Lang",
+                "location": "Univ.-Klinik f. Kinder- u. Jugendmedizin\nHoppe-Seyler-Str. 1\n72076 Tübingen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 117,
+            "value": {
+                "name": "Andreas Mackensen",
+                "location": "Universitätsklinikum Erlangen\nMedizinische Klinik 5\nHämatologie & Intern. Onkologie\nUlmenweg 18\n91054 Erlangen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 118,
+            "value": {
+                "name": "Stephan Mielke",
+                "location": "Karolinska Institutet and University Hospital\nScientific Director of the Cancer Center\nHead of CAST\n171 77 Stockholm\nSchweden",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 119,
+            "value": {
+                "name": "Lutz P. Müller",
+                "location": "M.-Luther-Universität Halle-Wittenberg\nUniversitätsklinik & Poliklinik\nInnere Med. IV, Hämatologie & Onkologie\nErnst-Grube-Str. 40\n06120 Halle",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 120,
+            "value": {
+                "name": "Dietger Niederwieser",
+                "location": "Universitätsklinikum Leipzig\nZentrum für Innere Medizin\nAbteilung Hämatologie/Onkologie\nJohannisallee 32\n04103 Leipzig",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 121,
+            "value": {
+                "name": "Michael Oldenburg\n",
+                "location": "Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 122,
+            "value": {
+                "name": "Caroline Pabst",
+                "location": "Universitätsklinikum Heidelberg\nMedizinische Klinik, Innere Medizin V\nHämatologie, Onkologie und Rheumatologie\nIm Neuenheimer Feld 410\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 123,
+            "value": {
+                "name": "Rudolf Peceny",
+                "location": "Franziskus-Hospital Harderberg\nKlinik für Internistische Onkologie und Hämatologie\nAlte Rothenfelder Str. 23\n49124 Georgsmarienhütte",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 124,
+            "value": {
+                "name": "Michael Punzel",
+                "location": "Straelen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 125,
+            "value": {
+                "name": "Armin Rehm",
+                "location": "Max-Delbrück-Centrum für Molekulare Medizin (MDC)\nRobert-Rössle-Str. 10\n13125 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 126,
+            "value": {
+                "name": "Oliver Rosen",
+                "location": "SQZ Biotechnologies\n200 Arsenal Yards Blvd, Suite 210\n02472 Watertown, MA\nUSA",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 127,
+            "value": {
+                "name": "Ralf Sanzenbacher",
+                "location": "Paul-Ehrlich-Institut\nBundesinstitut für Impfstoffe\nund biomedizinische Arzneimittel\nPaul-Ehrlich-Str. 51-59\n63225 Langen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 128,
+            "value": {
+                "name": "Christian Andreas Schmidt",
+                "location": "Universität Greifswald\nKlinik und Poliklinik für Innere Medizin C\nSauerbruchstr.\n17487 Greifswald",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 129,
+            "value": {
+                "name": "Anita Schmitt",
+                "location": "Universitätsklinikum Heidelberg\nInnere Medizin V\nHämatologie, Onkologie und Rheumatologie\nIm Neuenheimer Feld 672\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 130,
+            "value": {
+                "name": "Michael Schmitt",
+                "location": "Universitätsklinkum Heidelberg\nMedizinische Klinik V\nZelluläre Immuntherapie\nIm Neuenheimer Feld 410\n69120 Heidelberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 131,
+            "value": {
+                "name": "Hubert Schrezenmeier",
+                "location": "Universitätsklinikum Ulm\nInstitut für klinische Transfusionsmedizin\nHelmholtzstr. 10\n89081 Ulm",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 132,
+            "value": {
+                "name": "Mario Schubert",
+                "location": "Klinik Park-Therme\nErnst-Eisenlohr-Str. 6\n79410 Badenweiler",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 133,
+            "value": {
+                "name": "Gerold Schuler",
+                "location": "Universitätsklinikum Erlangen\nHautklinik\nUlmenweg 18\n91054 Erlangen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 134,
+            "value": {
+                "name": "Beatrice Schuler-Thurner",
+                "location": "Uniklinikum Erlangen\nHautklinik\nUlmenweg 18\n91052 Erlangen",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 135,
+            "value": {
+                "name": "Leopold Sellner",
+                "location": "Takeda Pharma Vertrieb GmbH & Co. KG\nJägerstr. 27\n10117 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 136,
+            "value": {
+                "name": "Renata Stripecke",
+                "location": "Medizinische Hochschule Hannover\nHämatologie, Hämostaseologie,\nOnkologie und Stammzelltransplantation\nCarl-Neuberg-Str. 1\n30625 Hannover",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 137,
+            "value": {
+                "name": "Marion Subklewe",
+                "location": "LMU - Klinikum der Universität München\nMed Klinik und Poliklinik III\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 138,
+            "value": {
+                "name": "Matthias Theobald",
+                "location": "Universitätsmedizin der\nJohannes-Gutenberg-Universität\nIII. Medizinische Klinik & Poliklinik\nLangenbeckstr. 1\n55131 Mainz",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 139,
+            "value": {
+                "name": "Sebastian Theurich",
+                "location": "Klinikum der Universität München\nMedizinische Klinik und Poliklinik III\nCampus Großhadern\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 140,
+            "value": {
+                "name": "Simone Thomas",
+                "location": "Universitätsklinikum Regensburg\nKlinik und Poliklinik f. Innere Medizin III\nFranz-Josef-Strauß-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 141,
+            "value": {
+                "name": "Torsten Tonn",
+                "location": "DRK-Blutspendedienst Nord-Ost gGmbH\nInstitut für Transfusionsmedizin Dresden\nBlasewitzer Str. 68/70\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 142,
+            "value": {
+                "name": "Lutz Uharek",
+                "location": "",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 143,
+            "value": {
+                "name": "Michael von Bergwelt-Baildon",
+                "location": "Klinikum der Universität München\nMedizinische Klinik und Poliklinik III\nHämatologie/Onkologie\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 144,
+            "value": {
+                "name": "Beate Wagner",
+                "location": "Klinikum der Universität München\nInterdisziplinäres Zentrum für Zelltherapie (IZZT)\nMarchioninistr. 15\n81377 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 145,
+            "value": {
+                "name": "Ralph Wäsch",
+                "location": "Universitätsklinik Freiburg\nInnere Medizin I\nHämatologie / Onkologie\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 146,
+            "value": {
+                "name": " Jörg Westermann",
+                "location": "Charité - Campus Virchow-Klinikum\nMed. Klinik m.S. Hämatologie\nOnkologie und Tumorimmunologie\nAugustenburger Platz 1\n13353 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 147,
+            "value": {
+                "name": "Markus Wiesneth\n",
+                "location": "DRK-Blutspendezentrale Ulm und\nAbteilung Transfusionsmedizin\nUniversität Ulm\nHelmholtzstr. 10\n89081 Ulm",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 148,
+            "value": {
+                "name": "Martin Wilhelm",
+                "location": "Klinikum Nürnberg Nord\nKlinik für Innere Medizin 5\nSchwerpunkt Onkologie / Hämatologie\nProf.-Ernst-Nathan-Str. 1\n90419 Nürnberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 149,
+            "value": {
+                "name": "Manja Wobus",
+                "location": "Universitätsklinikum Dresden\nMedizinische Klinik I\nFetscherstr. 74\n01307 Dresden",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 150,
+            "value": {
+                "name": "Dominik Wolf",
+                "location": "Medizinische Universität Innsbruck\nUniversitätsklinik für Innere Medizin V\nAnichstr. 35\nA-6020 Innsbruck\nÖsterreich",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 151,
+            "value": {
+                "name": "Bernhard Wörmann",
+                "location": "Amb. Gesundheitszentrum der Charité\nCampus Virchow-Klinikum\nMed. Klinik m.S. Hämatologie & Onkologie\nAugustenburger Platz 1\n13344 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 152,
+            "value": {
+                "name": "Patrick Wuchter",
+                "location": "Universität Heidelberg\nInstitut für Transfusionsmedizin und Immunologie\nMedizinische Fakultät Mannheim\nFriedrich-Ebert-Str. 107\n68167 Mannheim",
+                "role": "",
+                "email": "",
+                "presentation_id": 4,
+                "deleted": false
+            }
+        },
+        {
+            "key": 153,
+            "value": {
+                "name": "Tobias Pukrop",
+                "location": "Universität Regensburg\n",
+                "role": "",
+                "email": "zns-malignome@dgho.de",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 154,
+            "value": {
+                "name": "Gerald Illerhaus",
+                "location": "Klinikum Stuttgart\n",
+                "role": "",
+                "email": "g.illerhaus@klinikum-stuttgart.de",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 155,
+            "value": {
+                "name": "Jörg Bäsecke",
+                "location": "MVZ am St.-Josefs-Hospital Cloppenburg\nFB Hämatologie und Onkologie\nKrankenhausstr. 13\n49661 Cloppenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 156,
+            "value": {
+                "name": "Josef Birkmann",
+                "location": "Klinikum Nürnberg-Nord\n5. Medizinische Klinik\nProf.-Ernst-Nathan-Str. 1\n90419 Nürnberg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 157,
+            "value": {
+                "name": "Annalen Bleckmann",
+                "location": "Uniklinikum Münster\nMed A\nAlbert-Schweitzer-Campus 1\n48149 Münster",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 158,
+            "value": {
+                "name": "Lars Bullinger",
+                "location": "Charité Universitätsmedizin Berlin\nCampus Virchow-Klinikum (CVK)\nAugustenburger Platz 1\n13353 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 159,
+            "value": {
+                "name": "Frank Griesinger",
+                "location": "Pius Hospital Oldenburg\nUniversitätsklinik Innere Medizin-Onkologie\nKlinik für Hämatologie und Onkologie\nGeorgenstr. 12\n26121 Oldenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 160,
+            "value": {
+                "name": "Jörg Hense",
+                "location": "Universitätsklinikum Essen\nInnere Klinik (Tumorforschung)\nHufelandstr. 55\n45147 Essen",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 161,
+            "value": {
+                "name": "Daniel Heudobler",
+                "location": "Universitätsklinikum Regensburg\nKlinik für Innere Medizin II\nFranz-Josef-Strauss-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 162,
+            "value": {
+                "name": "Silvia Hofer",
+                "location": "UniversitätsSpital Zürich\nKlinik für Neurologie\nRämistr. 100\n8091 Zürich\nSchweiz",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 163,
+            "value": {
+                "name": "Johannes Hoffmann\n",
+                "location": "PIUS Hospital Oldenburg\nKlinik für Hämatologie und Onkologie\nGeorgstr. 12\n26121 Oldenburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 164,
+            "value": {
+                "name": "Gerald Illerhaus",
+                "location": "Klinikum Stuttgart\nKlinik für Hämatologie und Onkologie\nStuttgart Cancer Center / Tumorzentrum\nKriegsbergstr. 60\n70174 Stuttgart",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 165,
+            "value": {
+                "name": "Meinolf Karthaus",
+                "location": "Klinikum Neuperlach\nKlinik für Hämatologie und Onkologie\nOskar-Maria-Graf-Ring 51\n81737 München",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 166,
+            "value": {
+                "name": "Benjamin Kasenda",
+                "location": "iOMEDICO AG\nEllen-Gottliebstr. 19\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 167,
+            "value": {
+                "name": "Agnieszka Korfel",
+                "location": "Lilly Deutschland GmbH\nWerner-Reimers-Str. 2-4\n61352 Bad Homburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 168,
+            "value": {
+                "name": "Felicitas Lammer",
+                "location": "",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 169,
+            "value": {
+                "name": "Lothar Müller",
+                "location": "Onkologische Schwerpunktpraxis Leer-Emden\nAnnenstr. 11\n26789 Leer",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 170,
+            "value": {
+                "name": "Tobias Pukrop",
+                "location": "Universität Regensburg\nKlinik und Poliklinik f.Innere Medizin III\nHämatologie und Medizinische Onkologie\nFranz-Josef-Strauß-Allee 11\n93053 Regensburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 171,
+            "value": {
+                "name": "Elisabeth Schorb",
+                "location": "Universitätsklinikum Freiburg\nKlinik für Innere Medizin I\nHugstetter Str. 55\n79106 Freiburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 172,
+            "value": {
+                "name": "Solveig C. Schulz",
+                "location": "AKH Celle\nKlinik für Strahlentherapie\nSiemensplatz 4\n29223 Celle",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 173,
+            "value": {
+                "name": "Martin Trepel",
+                "location": "Universitätsklinikum Augsburg\nII. Medizinische Klinik\nStenglinstr. 2\n86156 Augsburg",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        },
+        {
+            "key": 174,
+            "value": {
+                "name": "Bernhard Wörmann",
+                "location": "Amb. Gesundheitszentrum der Charité\nCampus Virchow-Klinikum\nMed. Klinik m.S. Hämatologie & Onkologie\nAugustenburger Platz 1\n13344 Berlin",
+                "role": "",
+                "email": "",
+                "presentation_id": 5,
+                "deleted": false
+            }
+        }
+    ]
+}

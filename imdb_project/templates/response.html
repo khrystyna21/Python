@@ -1,0 +1,30 @@
+<link rel = "stylesheet" href="/static/styles.css">
+<h3><mark>{{numrows}} Records Found</mark></h3>
+<table class="table table-striped custab">
+  <thead>
+      <tr>
+         <th>Name</th>
+         <th>Year</th>
+         <th>Duration</th>
+         <th>Rating</th>
+         <th>Metascore</th>
+         <th>Votes</th>
+         <th>Revenue (MM USD)</th>
+         <th>Description</th>
+         <th>Director</th>
+      </tr>
+  </thead>
+  <tbody>
+{% for row in movie %}
+   <tr>
+    <td>{{row.movie_name}}</td>
+    <td>{{row.movie_year}}</td>
+    <td>{{row.duration}}</td>
+    <td>{{row.imdb_rating}}</td>
+    <td>{{row.metascore}}</td>
+    <td>{{row.votes}}</td>
+    <td>{{row.revenue}}</td>
+    <td>{{row.movie_description}}</td>
+    <td>{{row.director}}</td>
+   </tr>
+{% endfor %}
